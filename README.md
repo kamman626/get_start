@@ -1,2 +1,2 @@
-#MyApp
-This is my first git REDME
+# MyApp
+This is my first git REDME.
